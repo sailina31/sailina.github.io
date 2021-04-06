@@ -1,0 +1,19 @@
+html {
+    background: #F5D8D6;
+  }
+h1 {
+    text-align: center;
+    padding-left: 20px;
+    color:#463355;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+#kotak{
+    color: black;
+    background-color: #B9CFD9;
+    border: solid #463355;
+    text-align: justify;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 5px 10px 5px 10px;
+}

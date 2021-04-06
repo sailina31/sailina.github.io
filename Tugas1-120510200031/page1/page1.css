@@ -1,0 +1,18 @@
+html {
+    background: #F5D8D6;
+  }
+h1 {
+    text-align: center;
+    color:#463355;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.kotak{
+    padding-right: 20px;
+    padding-left: 20px;
+    margin: 10px auto;
+    color: black;
+    background-color: #B9CFD9;
+    border: solid #463355;
+    text-align: justify;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
